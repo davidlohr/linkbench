@@ -1,4 +1,4 @@
-echo CREATE TABLE `linktable` (
+CREATE TABLE `linktable` (
   `id1` bigint(20) unsigned NOT NULL DEFAULT '0',
   `id2` bigint(20) unsigned NOT NULL DEFAULT '0',
   `link_type` bigint(20) unsigned NOT NULL DEFAULT '0',
