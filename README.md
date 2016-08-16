@@ -1,6 +1,6 @@
 - - -
 
-**_This project is not actively maintained. Proceed at your own risk!_**
+**_Facebook no longer maintains this project. This is a casual fork with specific changes in mind to easy automation -- benchmark core not modified. Proceed at your own risk!_**
 
 - - -  
 
